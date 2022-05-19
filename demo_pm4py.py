@@ -1,3 +1,4 @@
+# pylint: disable-all
 # -*- coding: utf-8 -*-
 """Demo pm4py.ipynb
 
